@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Photo</string>
+    <string name="load_image">写真読み込み</string>
+    <string name="error_select_image">写真が選択されていません。</string>
+    <string name="take_a_picture">撮影</string>
+</resources>
